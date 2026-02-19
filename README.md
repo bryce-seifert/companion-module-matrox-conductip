@@ -4,9 +4,14 @@
 
 See [HELP.md](./companion/HELP.md) and [LICENSE](./LICENSE)
 
+### v1.2.0
+
+- New
+  - Support for "Remove All Connections" preset
+
 ### v1.1.0
 
-**Note: ConductIP software version 2.04.0 or higher is required to use versions**
+**Note: ConductIP software version 2.04.0 or higher is required to use versions ≥1.1.0 of this module**
 
 - New
   - Support for new and improved API included with ConductIP 2.04.0. This prevent timeout and connection issues.
